@@ -2,7 +2,7 @@
 - 😄 I'm Angelica and my pronouns are she/her
 - 👀 I’m interested in programming and love making cool projects
 - 🎨 I make art in my spare time. In particular, I enjoy watercolour, collages, and vector art
-- 🌱 I’m currently learning C# and .NET MAUI
+- 🌱 I’m currently learning Kotlin and mobile app development
 - 📫 How to reach me: angelica.benham23@gmail.com
 - 💻 Check out my portfolio at https://ambenham.github.io/portfolio/
 
